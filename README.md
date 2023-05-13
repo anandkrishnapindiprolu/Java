@@ -1,2 +1,2 @@
 # Java
-Repository of Java Programs
+Repository for Java Programs
