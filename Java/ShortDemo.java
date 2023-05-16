@@ -5,6 +5,6 @@ import java.io.*;
 		public static void main(String args[])
 		{
 			short s = 50;
-			System.out.println("Value of b is " +s);
+			System.out.println("Value of s is " +s);
 		}
 	}
